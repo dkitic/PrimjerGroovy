@@ -5,9 +5,17 @@ import groovy.transform.PackageScope
  */
 class Osoba {
 
+<<<<<<< HEAD
     //@PackageScope
+=======
+    @PackageScope
+>>>>>>> Darko_grana
     def ime = "darko"
     def prezime = " kitic"
     def bojaKose = " smedja"
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> Darko_grana
 }
