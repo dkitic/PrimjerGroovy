@@ -8,6 +8,10 @@ class FirstGroovyClass {
         //  System.out.println("hello groovy")
         System.out.println("hello world")
         println 'groovy primjer'
+
+        def primjer = 'angry'
+        def s = "The monkey is ${primjer}"
+        println(s)
     }
 
 }
