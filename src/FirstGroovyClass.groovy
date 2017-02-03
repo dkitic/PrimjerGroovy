@@ -12,15 +12,12 @@ class FirstGroovyClass {
         def primjer = 'angry'
         def s = "The monkey is ${primjer}"
         println(s)
-<<<<<<< HEAD
 
         JavaKlasa javaKlasa = new JavaKlasa();
 
         Osoba osoba = new Osoba();
        println(osoba.ime + osoba.prezime + osoba.bojaKose)
 
-=======
->>>>>>> Darko_grana
     }
 
 }
